@@ -26,12 +26,13 @@ Ministrado pela professoara Dr. Angela Yu através da plataforma UDEMY.
 
 ------------------------
 
-- App desenvolvido em aula
+- App desenvolvido em aula 
 
-<img width="399" alt="Captura de Tela 2022-01-10 às 18 54 58" src="https://user-images.githubusercontent.com/70922620/148845347-37c730d7-5a6c-4665-b790-69f545f456b0.png">
-
+<img width="399" alt="Captura de Tela 2022-01-10 às 18 54 58" src="https://user-images.githubusercontent.com/70922620/148845347-37c730d7-5a6c-4665-b790-69f545f456b0.png"> 
 
 - Exercicío Proposto:
 
 <img width="409" alt="Captura de Tela 2022-01-10 às 17 36 51" src="https://user-images.githubusercontent.com/70922620/148842930-b9a3da4d-73b8-405a-92fe-f53597c3f336.png">
+
+
 
